@@ -1,0 +1,7 @@
+go 1.21.0
+
+use (
+	./mygolang-ico/01hello
+	./mygolang-ico/02variables
+	./mygolang-ico/03userinput
+)
