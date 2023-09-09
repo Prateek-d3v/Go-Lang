@@ -1,7 +1,20 @@
-go 1.21.0
+go 1.21.1
 
 use (
+	./greetings
+	./hello
 	./mygolang-ico/01hello
 	./mygolang-ico/02variables
 	./mygolang-ico/03userinput
+	./mygolang-ico/04conversion
+	./mygolang-ico/06mytime
+	./mygolang-ico/07mypointers
+	./mygolang-ico/08array
+	./mygolang-ico/09myslices
+	./mygolang-ico/10mymaps
+	./mygolang-ico/11structs
+	./mygolang-ico/12ifelse
+	./mygolang-ico/13switchcase
+	./mygolang-ico/14loops
+	./mygolang-ico/15functions
 )
