@@ -17,4 +17,5 @@ use (
 	./mygolang-ico/13switchcase
 	./mygolang-ico/14loops
 	./mygolang-ico/15functions
+	./mygolang-ico/16methods
 )
